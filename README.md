@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RaghavCoderPY
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS & Python
-<!---
-RaghavCoderPY/RaghavCoderPY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+I am 12 year old boy learning Python from CodeWithHarry and want to be a machine learning engineer and want to open a AI start up 
+
+### Contact 
+**Mother Phone Number**: +091 94548186528
+**Father Phone Number**: +091 9411220528
